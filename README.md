@@ -1,2 +1,2 @@
 # mssc-brewery-bom
-Spring BOM
+Spring BOM - A Parent Bom to be inherited in other Services 
